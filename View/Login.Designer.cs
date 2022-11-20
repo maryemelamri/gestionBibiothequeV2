@@ -52,7 +52,7 @@
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(176, 34);
+            this.panel1.Location = new System.Drawing.Point(419, 70);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(378, 404);
             this.panel1.TabIndex = 0;
@@ -84,7 +84,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(53, 172);
+            this.textBox1.Location = new System.Drawing.Point(53, 185);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(239, 27);
             this.textBox1.TabIndex = 12;
@@ -133,7 +133,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.ForeColor = System.Drawing.Color.Red;
-            this.label5.Location = new System.Drawing.Point(760, 12);
+            this.label5.Location = new System.Drawing.Point(1113, 20);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(18, 20);
             this.label5.TabIndex = 1;
@@ -145,7 +145,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft YaHei UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label6.ForeColor = System.Drawing.Color.Red;
-            this.label6.Location = new System.Drawing.Point(728, -5);
+            this.label6.Location = new System.Drawing.Point(1081, 3);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(26, 33);
             this.label6.TabIndex = 1;
